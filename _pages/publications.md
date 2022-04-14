@@ -4,13 +4,10 @@ title: "Research"
 permalink: /Research/
 author_profile: true
 ---
+## Working Papers
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Shaver, Andrew. Krick, Benjamin. Hu, Shengkuo, Blancaor, Judy, Carreon, Martha, Liu, Xavier, Samara, Ghassan, Ku, Sarah. "The Causes and Consequences of Refugee Flows: A Contemporary Re-Analysis."
 
-{% include base_path %}
+Andrew Shaver, Benjamin Krick, Teagan Zuniga, Kai Bauer-Seeley, Isabella Caldarelli, Dheera Dusanapudi, Aaron Liow, Yasmine Lunar.  "The Determinants of Displacement: A Micro-Founded Global Analysis"
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Works in Progress 
