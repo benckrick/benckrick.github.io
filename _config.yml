@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Benjamin Krick"
   avatar           : "profile.png"
-  bio              : "Predoctoral Fellow"
-  location         : "Salt Lake City, Utah"
+  bio              : "PhD Student"
+  location         : "Durham, North Carolina"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "benjamin.krick@duke.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
