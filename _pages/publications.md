@@ -17,10 +17,10 @@ Sofia de Melo, Zhanyi Zuo. "The Causes and Consequences of Refugee Flows: A Cont
 
 Andrew Shaver, **Benjamin Krick** and Teagan Zuniga with Kai Bauer-Seeley, Isabella Caldarelli, Dheera Dusanapudi, Aaron Liow, Yasmine Lunar.  "The Determinants of Displacement: A Micro-Founded Global Analysis."
 
-Christopher Blair, **Benjamin Krick**,  and Austin Wright. "Refugee Repatriation and Conflict: Evidence from the
+Christopher Blair, **Benjamin Krick** and Austin Wright. "Refugee Repatriation and Conflict: Evidence from the
 Maximum Pressure Campaign.”
 
-**Benjamin Krick**, Jonathan Petkun, and Mara Revkin. "The Civilian Cost of Casualty Aversion: Evidence from a Natural Experiment in Iraq."
+**Benjamin Krick**, Jonathan Petkun and Mara Revkin. "The Civilian Cost of Casualty Aversion: Evidence from a Natural Experiment in Iraq."
 
-Matias Iglesias, **Benjamin Krick**, Dongil Lee, and Eric Mvukiyehe. “Civil Conflicts, Civic Engagement, and Public Service Delivery: Evidence from Africa.”
+Matias Iglesias, **Benjamin Krick**, Dongil Lee and Eric Mvukiyehe. “Civil Conflicts, Civic Engagement, and Public Service Delivery: Evidence from Africa.”
 
