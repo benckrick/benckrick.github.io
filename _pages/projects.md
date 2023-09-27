@@ -14,3 +14,5 @@ permalink: /projects/
 
 **Civil Conflicts, Civic Engagement, and Public Service Delivery: Evidence from Africa** (with Matias Iglesias, Dongil Lee, Eric Mvukiyehe)
 
+**IDP Return and Social Cohesion in Post Islamic State Iraq**
+
