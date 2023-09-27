@@ -11,7 +11,7 @@ Andrew Shaver and **Benjamin Krick** with Judy Blancaflor, Sarah Yein Ku, Xavier
 Sofia de Melo, Zhanyi Zuo. "The Causes and Consequences of Refugee Flows: A Contemporary Re-Analysis." Conditionally Accepted. *American Political Science Review*
 * Referenced in [The Economist](https://www.economist.com/graphic-detail/2022/03/30/how-the-war-in-ukraine-compares-to-other-refugee-crises)
 <!-- Below will make nice buttons for publications link: can make "abstract" "article" and "preprint" -->
-<!-- [Preprint](http://esoc.princeton.edu/wp29){: .btn--research} -->
+[Preprint](http://esoc.princeton.edu/wp29){: .btn--research}
 
 ## Submitted Manuscripts 
 
