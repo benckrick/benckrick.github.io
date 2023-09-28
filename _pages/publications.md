@@ -8,8 +8,46 @@ permalink: /publications/
 <!--* Referenced in [The Economist](https://www.economist.com/graphic-detail/2022/03/30/how-the-war-in-ukraine-compares-to-other-refugee-crises)-->
 <!-- abstract dropdown?; otherwise just add another button -->
 
-<!-- Below will make nice buttons for publications link: can make "abstract" "article" and "preprint" -->
+<style>
+  #abstract {
+    display: none;
+  }
+
+  #toggleButton {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+</style>
+
+<button id="toggleButton">Show Abstract</button>
+<div id="abstract">
+  Here is my abstract content.
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var button = document.getElementById("toggleButton");
+    var abstract = document.getElementById("abstract");
+
+    button.addEventListener("click", function() {
+      if (abstract.style.display === "none" || abstract.style.display === "") {
+        abstract.style.display = "block";
+        button.textContent = "Hide Abstract";
+      } else {
+        abstract.style.display = "none";
+        button.textContent = "Show Abstract";
+      }
+    });
+  });
+</script>
+
 [Preprint](http://esoc.princeton.edu/wp29){: .btn--research}
+
+
+<!-- Below will make nice buttons for publications link: can make "abstract" "article" and "preprint" -->
 <!-- [Article](http://esoc.princeton.edu/wp29){: .btn--research} -->
 <!-- [Prepint](http://esoc.princeton.edu/wp29){: .btn--research} -->
 <!-- [Appendix](http://esoc.princeton.edu/wp29){: .btn--research} -->
