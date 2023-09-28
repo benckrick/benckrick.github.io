@@ -16,8 +16,6 @@ permalink: /publications/
     border: none;
     padding: 0;
     cursor: pointer;
-    margin-right: 5px; /* Reduce horizontal spacing between button and text */
-    margin-top: 0; /* Reduce vertical margin above the button */
   }
 
   .triangle {
@@ -60,7 +58,7 @@ permalink: /publications/
     });
   });
 </script>
-
+</br>
 [Preprint](http://esoc.princeton.edu/wp29){: .btn--research}
 <!-- [Article](http://esoc.princeton.edu/wp29){: .btn--research} -->
 <!-- [Prepint](http://esoc.princeton.edu/wp29){: .btn--research} -->
