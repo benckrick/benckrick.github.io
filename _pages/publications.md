@@ -16,6 +16,7 @@ permalink: /publications/
     border: none;
     padding: 0;
     cursor: pointer;
+    margin-right: 5px; /* Reduce spacing between button and text */
   }
 
   .triangle {
@@ -66,3 +67,4 @@ permalink: /publications/
 <!-- [Replication](http://esoc.princeton.edu/wp29){: .btn--research} -->
 
 <!--Full Citation -->
+
