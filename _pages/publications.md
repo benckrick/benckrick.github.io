@@ -58,7 +58,7 @@ permalink: /publications/
     });
   });
 </script>
-<br>[Preprint](http://esoc.princeton.edu/wp29){: .btn--research}
+<br>[PDF](http://esoc.princeton.edu/wp29){: .btn--research}
 <!-- [Article](http://esoc.princeton.edu/wp29){: .btn--research} -->
 <!-- [Prepint](http://esoc.princeton.edu/wp29){: .btn--research} -->
 <!-- [Appendix](http://esoc.princeton.edu/wp29){: .btn--research} -->

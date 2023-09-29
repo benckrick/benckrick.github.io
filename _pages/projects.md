@@ -4,9 +4,9 @@ permalink: /projects/
 ---
 ## Submitted Manuscripts 
 
-**What Determines Military Legitimacy? Evidence from the Battle for Mosul in Iraq** (with Jonathan Petkun, Mara Revkin)
-
 ## In Progress 
+
+**What Determines Military Legitimacy? Evidence from the Battle for Mosul in Iraq** (with Jonathan Petkun, Mara Revkin)
 
 **The Determinants of Displacement: A Micro-Founded Global Analysis** (with Andrew Shaver, Teagan Zuniga, et al.) 
 
