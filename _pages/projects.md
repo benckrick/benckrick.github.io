@@ -61,7 +61,7 @@ The legitimacy of armed forces in the eyes of civilians is widely recognized as 
 
 ## In Progress 
 
-**The Determinants of Displacement: A Micro-Founded Global Analysis** (with Andrew Shaver, Teagan Zuniga, et al.) 
+**The Determinants of Displacement: A Micro-Founded Global Analysis** (with Andrew Shaver, et al.) 
 
 **Refugee Repatriation and Conflict: Evidence from the Maximum Pressure Campaign** (with Christopher Blair, Austin Wright) 
 
