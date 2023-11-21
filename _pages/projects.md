@@ -3,7 +3,6 @@ title: "Projects"
 permalink: /projects/
 ---
 ## Submitted Manuscripts 
-
 **What Determines Military Legitimacy? Evidence from the Battle for Mosul in Iraq** (with Jonathan Petkun, Mara Revkin)
 <style>
   #abstract {
@@ -58,6 +57,8 @@ The legitimacy of armed forces in the eyes of civilians is widely recognized as 
     });
   });
 </script>
+[Working Paper](https://hicn.org/wp-content/uploads/2023/11/HiCN-WP-402.pdf){: .btn--research}
+
 
 ## In Progress 
 
