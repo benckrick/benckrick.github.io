@@ -10,14 +10,13 @@ permalink: /publications/
     display: none;
   }
 
-  .toggle-button, .button-container a {
+  .toggle-button {
     background-color: transparent;
     color: #000;
     border: none;
     padding: 0;
     cursor: pointer;
     margin-bottom: 10px; /* Added spacing */
-    text-decoration: none; /* Remove underline for anchor tags */
   }
 
   .triangle {
@@ -82,6 +81,7 @@ permalink: /publications/
     });
   });
 </script>
+
 
 
 
