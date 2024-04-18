@@ -3,8 +3,7 @@ title: "Publications"
 permalink: /publications/
 ---
 **The Causes and Consequences of Refugee Flows: A Contemporary Re-Analysis** (with Andrew Shaver, et al.) 
-<br>Conditionally Accepted. *American Political Science Review*
-<!--* Referenced in [The Economist](https://www.economist.com/graphic-detail/2022/03/30/how-the-war-in-ukraine-compares-to-other-refugee-crises)-->
+<br>Forthcoming. *American Political Science Review*
 <style>
   #abstract {
     display: none;
@@ -58,7 +57,8 @@ permalink: /publications/
     });
   });
 </script>
-<!--<br>[PDF](/files/preprint_cc.pdf){: .btn--research}-->
+<br><a href="/files/preprint_cc.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> Download PDF</a>{: .btn--research}
+
 <!-- [Article](http://esoc.princeton.edu/wp29){: .btn--research} -->
 <!-- [Prepint](http://esoc.princeton.edu/wp29){: .btn--research} -->
 <!-- [Appendix](http://esoc.princeton.edu/wp29){: .btn--research} -->
