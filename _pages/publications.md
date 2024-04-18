@@ -57,7 +57,7 @@ permalink: /publications/
     });
   });
 </script>
-<br><a href="/files/preprint_cc.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> Download PDF</a>{: .btn--research}
+<br><a href="/files/preprint_cc.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
 
 <!-- [Article](http://esoc.princeton.edu/wp29){: .btn--research} -->
 <!-- [Prepint](http://esoc.princeton.edu/wp29){: .btn--research} -->
