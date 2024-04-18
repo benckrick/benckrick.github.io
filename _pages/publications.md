@@ -10,12 +10,14 @@ permalink: /publications/
     display: none;
   }
 
-  .toggle-button {
+  .toggle-button, .button-container a {
     background-color: transparent;
     color: #000;
     border: none;
     padding: 0;
     cursor: pointer;
+    margin-bottom: 10px; /* Added spacing */
+    text-decoration: none; /* Remove underline for anchor tags */
   }
 
   .triangle {
@@ -58,6 +60,11 @@ permalink: /publications/
     <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>
   </a>
 </div>
+<div class="button-container">
+  <a href="your_code_link_here" target="_blank">
+    <i class="fas fa-fw fa-code" aria-hidden="true"></i>
+  </a>
+</div>
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     var toggleButton = document.querySelector(".toggle-button");
@@ -75,6 +82,7 @@ permalink: /publications/
     });
   });
 </script>
+
 
 
 <!-- [Article](http://esoc.princeton.edu/wp29){: .btn--research} -->
