@@ -58,6 +58,11 @@ permalink: /publications/
     <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>
   </a>
 </div>
+ <div class="button-container">
+    <a href="your_paper_link_here" target="_blank">
+      <i class="fas fa-fw fa-paperclip" aria-hidden="true"></i>
+    </a>
+  </div>
 <div class="button-container">
   <a href="your_code_link_here" target="_blank">
     <i class="fas fa-fw fa-code" aria-hidden="true"></i>
