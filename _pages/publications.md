@@ -3,7 +3,9 @@ title: "Publications"
 permalink: /publications/
 ---
 **The Causes and Consequences of Refugee Flows: A Contemporary Re-Analysis** (with Andrew Shaver, et al.) 
-<br>Forthcoming. *American Political Science Review*
+<br>Forthcoming. *American Political Science Review* <a href="https://www.google.com" target="_blank">
+    <i class="fa fa-fw fa-link" aria-hidden="true"></i>
+  </a>
 <style>
   #abstract {
     display: none;
