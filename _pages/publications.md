@@ -8,15 +8,6 @@ permalink: /publications/
     <br>Forthcoming. *American Political Science Review*
   </div>
   <div class="button-container">
-    <div class="toggle-button">
-      <span class="triangle"></span>
-      <span>Abstract</span>
-    </div>
-    <div id="abstract">
-      The world faces a forcible displacement crisis. Tens of millions of individuals have been forced across international boundaries worldwide. Therefore, the causes and consequences of refugee flows are the subjects of significant social science inquiry. Unfortunately, the historical lack of reliable data on actual refugee flows, country-specific data reporting timelines, and more general pre-2000 data quality issues have significantly limited empirical inferences on these topics. We replicate twenty-eight articles on these topics using data newly released after a multi-year collaboration with the United Nations on annual dyadic flows. We observe major inconsistencies between the newly released flow numbers and the stock-based flow estimates upon which decades of research are based; we also find widespread inappropriate treatment of missing historical values. When we replicate the existing literature using the newly introduced flow data, correcting the treatment of missing historical values, and temporally extending/restricting the study periods, we produce significantly different results.
-    </div>
-  </div>
-  <div class="button-container">
     <a href="https://www.google.com" target="_blank">
       <i class="fa fa-fw fa-link" aria-hidden="true"></i>
     </a>
@@ -33,58 +24,22 @@ permalink: /publications/
   </div>
 </div>
 <style>
-  #abstract {
-    display: none;
-  }
-
-  .toggle-button, .button-container a {
-    background-color: transparent;
-    color: #000;
-    border: none;
-    padding: 0;
-    cursor: pointer;
-    margin-bottom: 10px; /* Added spacing */
+  .button-container a {
+    color: #000; /* Reverting to original color */
     text-decoration: none; /* Remove underline for anchor tags */
   }
 
-  .triangle {
-    width: 0;
-    height: 0;
-    border-top: 5px solid transparent;
-    border-bottom: 5px solid transparent;
-    border-left: 8px solid #000;
-    display: inline-block;
-    margin-right: 5px;
-    transform: rotate(0deg);
-    transition: transform 0.3s;
-  }
-
-  .toggle-button.active .triangle {
-    transform: rotate(90deg);
+  .button-container a:hover {
+    color: #000; /* Hover color same as original color */
   }
 
   .button-container {
     display: inline-block;
     vertical-align: top;
+    margin-left: 10px; /* Add spacing between buttons */
   }
 </style>
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    var toggleButton = document.querySelector(".toggle-button");
-    var abstract = document.getElementById("abstract");
 
-    toggleButton.addEventListener("click", function() {
-      var isActive = toggleButton.classList.contains("active");
-      if (!isActive) {
-        abstract.style.display = "block";
-        toggleButton.classList.add("active");
-      } else {
-        abstract.style.display = "none";
-        toggleButton.classList.remove("active");
-      }
-    });
-  });
-</script>
 
 
 
