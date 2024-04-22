@@ -66,7 +66,5 @@ The legitimacy of armed forces in the eyes of civilians is widely recognized as 
 
 **Refugee Repatriation and Conflict: Evidence from the Maximum Pressure Campaign** (with Christopher Blair, Austin Wright) 
 
-**Civil Conflicts, Civic Engagement, and Public Service Delivery: Evidence from Africa** (with Matias Iglesias, Dongil Lee, Eric Mvukiyehe)
-
 **IDP Return and Social Cohesion in Post Islamic State Iraq**
 
