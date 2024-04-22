@@ -3,7 +3,9 @@ title: "Projects"
 permalink: /projects/
 ---
 ## Submitted Manuscripts 
-**Civilian Harm and Military Legitimacy in War: Evidence from the Battle for Mosul in Iraq** (with Jonathan Petkun, Mara Revkin) <a href="https://hicn.org/wp-content/uploads/2023/11/HiCN-WP-402-2.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a><style>
+**Civilian Harm and Military Legitimacy in War: Evidence from the Battle for Mosul in Iraq** (with Jonathan Petkun, Mara Revkin) <a href="https://hicn.org/wp-content/uploads/2023/11/HiCN-WP-402-2.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
+
+<style>
   #abstract {
     display: none;
   }

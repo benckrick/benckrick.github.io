@@ -40,7 +40,6 @@ permalink: /publications/
     vertical-align: top;
   }
 </style>
-
 <div class="button-container">
   <div class="toggle-button">
     <span class="triangle"></span>
