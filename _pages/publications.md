@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-**The Causes and Consequences of Refugee Flows: A Contemporary Re-Analysis** (with Andrew Shaver, et al.) <br>Forthcoming. *American Political Science Review* <a href="https://www.google.com" target="_blank"><i class="fa fa-fw fa-link" aria-hidden="true"></i></a><a href="/files/preprint_cc.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a><a href="your_paper_link_here" target="_blank"><i class="fas fa-fw fa-paperclip" aria-hidden="true"></i></a><a href="your_code_link_here" target="_blank"><i class="fas fa-fw fa-code" aria-hidden="true"></i></a>
+**The Causes and Consequences of Refugee Flows: A Contemporary Re-Analysis** (with Andrew Shaver, et al.) <br>Forthcoming. *American Political Science Review* <a href="https://www.google.com" target="_blank"><i class="fa fa-fw fa-link" aria-hidden="true"></i></a><a href="/files/preprint_cc.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a><a href="your_paper_link_here" target="_blank"><i class="fas fa-fw fa-paperclip" aria-hidden="true"></i></a><a href="/files/appendix_cc.pdf" target="_blank"><i class="fas fa-fw fa-code" aria-hidden="true"></i></a>
 
 <style>
   #abstract {
