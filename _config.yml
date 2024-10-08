@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Benjamin Krick"
 title_separator          : "-"
 name                     : &name "Benjamin Krick"
-description              : &description "Predoctoral Fellow"
+description              : &description "Candidate Fellow"
 url                      : https://benckrick.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "benckrick/benckrick.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Benjamin Krick"
   avatar           : "profile.png"
-  bio              : "PhD Student"
+  bio              : "PhD Candidate"
   location         : "Durham, North Carolina"
   employer         :
   pubmed           :
