@@ -65,7 +65,7 @@ The legitimacy of armed forces in the eyes of civilians is increasingly recogniz
 </script>
 
 
-## works in progress <div style="margin-top: 20px;"></div>
+## works in progress 
 
 **Refugee Repatriation and Conflict: Evidence from the Maximum Pressure Campaign** (with Christopher Blair, Austin Wright) 
 
