@@ -9,14 +9,14 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
+    <p>Durham, NC</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 WEBSITE UNDER CONSTRUCTION 
 
-I am a PhD student in Political Science at [Duke University](https://polisci.duke.edu/) studying Security, Peace, and Conflict (IR) and Political Methodology. I received my MS from the University of Utah in Political Science and my BA from the University of Arkansas in Middle East Studies/ Arabic. My research seek to understand the challenges associated with state transitions from political instability with an emphasis on (1) the return dynamics facing forced migrants and (2) authoritarian nostalgia. My geographical focus is primarily the Middle East and I have active projects in Iraq. Methodologically, I employ techniques for observational, causal inference triangulated with fieldwork, surveys, and qualitative interviews.
+I am a PhD student in Political Science at [Duke University](https://polisci.duke.edu/) studying Security, Peace, and Conflict (IR) and Political Methodology. I hold an MS in Political Science from the University of Utah and a BA in Middle East Studies/Arabic from the University of Arkansas. My research explores state transitions from political instability, with a focus on forced migrant return dynamics and authoritarian nostalgia, particularly in the Middle East. I use observational and causal inference methods, integrating fieldwork, surveys, and qualitative interviews, with active projects on Iraq and Afghanistan.
