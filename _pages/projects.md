@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-## Submitted Manuscripts 
+## submitted manuscripts 
 **Civilian Harm and Military Legitimacy in War: Evidence from the Battle for Mosul in Iraq** (with Jonathan Petkun, Mara Revkin) <a href="https://ssrn.com/abstract=4633249" target="_blank"><i class="fa fa-fw fa-link" aria-hidden="true"></i></a>
 
 <style>
@@ -65,7 +65,7 @@ The legitimacy of armed forces in the eyes of civilians is increasingly recogniz
 </script>
 
 
-## In Progress <div style="margin-top: 20px;"></div>
+## works in progress <div style="margin-top: 20px;"></div>
 
 **Refugee Repatriation and Conflict: Evidence from the Maximum Pressure Campaign** (with Christopher Blair, Austin Wright) 
 
