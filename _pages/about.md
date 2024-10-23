@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate. [Duke University](https://polisci.duke.edu/). 
-
+subtitle: PhD Candidate. <a href="https://polisci.duke.edu/">Duke University</a>.
 profile:
   align: right
   image: profile.png
