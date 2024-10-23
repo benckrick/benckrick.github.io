@@ -44,7 +44,7 @@ nav_order: 3
   <span>Abstract</span>
 </div>
 <div id="abstract">
-The legitimacy of armed forces in the eyes of civilians is widely recognized as crucial for the success of counterinsurgency. However, the micro-determinants of ``military legitimacy" are poorly understood. We argue that perceptions of military legitimacy are shaped by two key dimensions of warfare: just cause and just conduct. Leveraging variation during the battle to liberate the Iraqi city of Mosul from the Islamic State, we evaluate our theory with an iterative mixed-methods design combining household survey data, satellite imagery, and interviews. Civilians living in neighborhoods where counterinsurgents' tactics and strategies reflected less concern for civilian protection view counterinsurgent forces as less legitimate than civilians elsewhere. These results persist after conditioning for personal experiences with harm, suggesting that perceptions are influenced not only by victimization---consistent with previous studies---but also by beliefs about the morality of armed forces' conduct and the cause for which they are fighting.
+The legitimacy of armed forces in the eyes of civilians is increasingly recognized as crucial not only for battlefield effectiveness but also for conflict resolution and peace-building. However, the micro-determinants of “military legitimacy” are poorly understood. We argue that perceptions of military legitimacy are shaped by two key dimensions of warfare: just cause and just conduct. Leveraging naturally occurring variation during one of the most deadly urban battles in recent history—the multi-national campaign to defeat the Islamic State in Mosul, Iraq—we evaluate our theory with a mixed-methods design combining original survey data, satellite imagery, and interviews. Civilians living in neighborhoods where armed forces were less careful to protect civilians view those forces as less legitimate than civilians elsewhere. Surprisingly, these results persist after conditioning on personal experiences with harm, suggesting that perceptions are influenced not only by victimization—consistent with previous studies—but also by beliefs about the morality of armed forces’ conduct and the cause for which they are fighting.
 </div>
 <script>
   document.addEventListener("DOMContentLoaded", function() {
@@ -65,7 +65,7 @@ The legitimacy of armed forces in the eyes of civilians is widely recognized as 
 </script>
 
 
-## In Progress 
+## In Progress <div style="margin-top: 20px;"></div>
 
 **Refugee Repatriation and Conflict: Evidence from the Maximum Pressure Campaign** (with Christopher Blair, Austin Wright) 
 
