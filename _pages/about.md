@@ -7,12 +7,13 @@ profile:
   align: right
   image: profile.png
   image_circular: false # crops the image to make it circular
-  more_info: <div class="profile-links">
-    <p><i class="fas fa-map-marker-alt"></i> Durham, NC</p>
-    <p><a href="https://x.com/benckrick" target="_blank"><i class="fab fa-twitter"></i> Twitter</a></p>
-    <p><a href="https://scholar.google.com/citations?hl=en&user=Xox0FTkAAAAJ" target="_blank"><i class="ai ai-google-scholar-square"></i> Google Scholar</a></p>
-    <p><a href="https://orcid.org/0000-0001-8636-1525"_blank"><i class="ai ai-orcid"></i> ORCID</a></p>
-</div>
+  more_info: |
+    <div class="profile-links">
+      <p><i class="fas fa-map-marker-alt"></i> Durham, NC</p>
+      <p><a href="https://x.com/benckrick" target="_blank"><i class="fab fa-twitter"></i> Twitter</a></p>
+      <p><a href="https://scholar.google.com/citations?hl=en&user=Xox0FTkAAAAJ" target="_blank"><i class="ai ai-google-scholar-square"></i> Google Scholar</a></p>
+      <p><a href="https://orcid.org/0000-0001-8636-1525" target="_blank"><i class="ai ai-orcid"></i> ORCID</a></p>
+    </div>
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
