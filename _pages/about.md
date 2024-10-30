@@ -7,7 +7,7 @@ profile:
   align: right
   image: profile.png
   image_circular: false # crops the image to make it circular
-  more_info:|
+  more_info: |
     <div class="profile-buttons">
       <a href="mailto:benjamin.krick@duke.edu" class="btn"><i class="fas fa-envelope"></i></a>
       <a href="https://x.com/benckrick" target="_blank" class="btn"><i class="fab fa-x-twitter"></i></a>
