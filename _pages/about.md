@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate. <a href="https://polisci.duke.edu/">Duke University</a>.
+subtitle: PhD Candidate. <a href="https://duke.edu/">Duke University</a>.
 profile:
   align: right
   image: profile.png
@@ -18,6 +18,5 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-WEBSITE UNDER CONSTRUCTION 
 
-I am a PhD Candidate in Political Science at [Duke University](https://polisci.duke.edu/) studying Security, Peace, and Conflict (IR) and Political Methodology. I hold an MS in Political Science from the University of Utah and a BA in Middle East Studies/Arabic from the University of Arkansas. My research explores state transitions from political instability, with a focus on forced migrant return dynamics and authoritarian nostalgia, particularly in the Middle East. I use observational and causal inference methods, integrating fieldwork, surveys, and qualitative interviews, with active projects on Iraq and Afghanistan.
+I am a PhD Candidate in the [Political Science Department](https://polisci.duke.edu/) at Duke University. I study topics at the nexus of International Relations and Comparative Politics. My research explores state transitions from political instability, with a focus on forced migration and authoritarian nostalgia, particularly in the Middle East. I rely on causal inference methods, integrating original data with fieldwork and qualitative interviews. I hold a MS in Political Science from the University of Utah and a BA in Middle East Studies/Arabic from the University of Arkansas. 
