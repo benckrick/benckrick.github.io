@@ -8,7 +8,7 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   more_info: |
-    <div class="profile-links">
+    <div class="profile-links centered-info">
        <p><a href="mailto:benjamin.krick@duke.edu" target="_blank"><i class="fas fa-envelope fa-2x"></a></p>
       <p><a href="https://x.com/benckrick" target="_blank"><i class="fab fa-x-twitter fa-2x"></i></a></p>
       <p><a href="https://scholar.google.com/citations?hl=en&user=Xox0FTkAAAAJ" target="_blank"><i class="ai ai-google-scholar-square fa-2x"></i></a></p>
