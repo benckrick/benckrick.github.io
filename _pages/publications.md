@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 2
 ---
-**The Causes and Consequences of Refugee Flows: A Contemporary Re-Analysis** (with Andrew Shaver, et al.) <br>Forthcoming. *American Political Science Review* <a href="https://doi.org/10.1017/S0003055424000285" target="_blank"><i class="fa fa-fw fa-link" aria-hidden="true"></i></a><a href="/files/cc_final.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a><a href="/files/appendix_cc.pdf" target="_blank"><i class="fas fa-fw fa-paperclip" aria-hidden="true"></i></a><a href="https://doi.org/10.7910/DVN/JADOZL" target="_blank"><i class="fas fa-fw fa-code" aria-hidden="true"></i></a>
+**The Causes and Consequences of Refugee Flows: A Contemporary Re-Analysis** (with Andrew Shaver, et al.). <br> 2025. *American Political Science Review*,119 (1): 526–534.  <a href="https://doi.org/10.1017/S0003055424000285" target="_blank"><i class="fa fa-fw fa-link" aria-hidden="true"></i></a><a href="/files/cc_final.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a><a href="/files/appendix_cc.pdf" target="_blank"><i class="fas fa-fw fa-paperclip" aria-hidden="true"></i></a><a href="https://doi.org/10.7910/DVN/JADOZL" target="_blank"><i class="fas fa-fw fa-code" aria-hidden="true"></i></a>
 
 <style>
   #abstract {
