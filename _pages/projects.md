@@ -51,7 +51,7 @@ nav_order: 3
 </div>
 
 **Refugee Repatriation and Conflict: Evidence from the Maximum Pressure Campaign** (with Christopher Blair, Austin Wright) 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5081898" target="_blank"><i class="fa fa-fw fa-link" aria-hidden="true"></i></a>
+<a href="https://esoc.princeton.edu/wp39" target="_blank"><i class="fa fa-fw fa-link" aria-hidden="true"></i></a>
 
 <div class="abstract-container">
   <div class="toggle-button" id="toggle-abstract-2">
