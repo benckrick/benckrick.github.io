@@ -23,35 +23,22 @@ nav_order: 3
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    var toggleButton1 = document.getElementById("toggle-abstract-1");
-    var abstract1 = document.getElementById("abstract-1");
+    var toggleButton = document.getElementById("toggle-abstract-2");
+    var abstractDiv = document.getElementById("abstract-2");
 
-    toggleButton1.addEventListener("click", function() {
-      var isActive = toggleButton1.classList.contains("active");
+    toggleButton.addEventListener("click", function() {
+      var isActive = toggleButton.classList.contains("active");
       if (!isActive) {
-        abstract1.style.display = "block";
-        toggleButton1.classList.add("active");
+        abstractDiv.style.display = "block";
+        toggleButton.classList.add("active");
       } else {
-        abstract1.style.display = "none";
-        toggleButton1.classList.remove("active");
-      }
-    });
-
-    var toggleButton2 = document.getElementById("toggle-abstract-2");
-    var abstract2 = document.getElementById("abstract-2");
-
-    toggleButton2.addEventListener("click", function() {
-      var isActive = toggleButton2.classList.contains("active");
-      if (!isActive) {
-        abstract2.style.display = "block";
-        toggleButton2.classList.add("active");
-      } else {
-        abstract2.style.display = "none";
-        toggleButton2.classList.remove("active");
+        abstractDiv.style.display = "none";
+        toggleButton.classList.remove("active");
       }
     });
   });
 </script>
+
 
 
 ## works in progress 
