@@ -12,7 +12,7 @@ nav_order: 3
 <a href="https://esoc.princeton.edu/wp39" target="_blank"><i class="fa fa-fw fa-link" aria-hidden="true"></i></a>
 
 <div class="abstract-container">
-  <div class="toggle-button" id="toggle-abstract-2">
+  <div class="toggle-button" data-target="abstract-2">
     <span class="triangle"></span>
     <span>Abstract</span>
   </div>
@@ -23,21 +23,44 @@ nav_order: 3
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    var toggleButton = document.getElementById("toggle-abstract-2");
-    var abstractDiv = document.getElementById("abstract-2");
-
-    toggleButton.addEventListener("click", function() {
-      var isActive = toggleButton.classList.contains("active");
-      if (!isActive) {
-        abstractDiv.style.display = "block";
-        toggleButton.classList.add("active");
-      } else {
-        abstractDiv.style.display = "none";
-        toggleButton.classList.remove("active");
-      }
+    var toggleButtons = document.querySelectorAll(".toggle-button");
+    toggleButtons.forEach(function(button) {
+      button.addEventListener("click", function() {
+        var targetId = button.getAttribute("data-target");
+        var abstract = document.getElementById(targetId);
+        var isActive = button.classList.contains("active");
+        
+        if (!isActive) {
+          abstract.style.display = "block";
+          button.classList.add("active");
+        } else {
+          abstract.style.display = "none";
+          button.classList.remove("active");
+        }
+      });
     });
   });
 </script>
+
+<style>
+  /* Style for the triangle */
+  .triangle {
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 10px solid black;
+    display: inline-block;
+    margin-right: 10px;
+    transition: transform 0.3s ease;
+  }
+
+  /* Rotate triangle when the abstract is expanded */
+  .toggle-button.active .triangle {
+    transform: rotate(180deg);
+  }
+</style>
+
 
 
 
