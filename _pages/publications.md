@@ -6,8 +6,8 @@ description:
 nav: true
 nav_order: 2
 ---
-**Civilian Harm and Military Legitimacy in War: Evidence from the Battle for Mosul in Iraq** (with Jonathan Petkun, Mara Revkin).  <br>
- *International Organization*, 79 (2): 332–357.  <a href="https://doi.org/10.1017/S0020818325000098" target="_blank"><i class="fa fa-fw fa-link" aria-hidden="true"></i></a><a href="/files/mosul_final.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a><a href="/files/appendix_mosul.pdf" target="_blank"><i class="fas fa-fw fa-paperclip" aria-hidden="true"></i></a><a href="https://doi.org/10.7910/DVN/IWTHDK" target="_blank"><i class="fas fa-fw fa-code" aria-hidden="true"></i></a>
+**Civilian Harm and Military Legitimacy: Evidence from the Battle of Mosul** (with Jonathan Petkun, Mara Revkin).  <br>
+ 2025. *International Organization*, 79 (2): 332–357.  <a href="https://doi.org/10.1017/S0020818325000098" target="_blank"><i class="fa fa-fw fa-link" aria-hidden="true"></i></a><a href="/files/mosul_final.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a><a href="/files/appendix_mosul.pdf" target="_blank"><i class="fas fa-fw fa-paperclip" aria-hidden="true"></i></a><a href="https://doi.org/10.7910/DVN/IWTHDK" target="_blank"><i class="fas fa-fw fa-code" aria-hidden="true"></i></a>
 
 <style>
   .toggle-button {
