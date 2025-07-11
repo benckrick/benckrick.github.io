@@ -50,10 +50,51 @@ nav_order: 3
   </div>
 </div>
 
+**IDP Return and Social Cohesion: Evidence from Camp Closures in Iraq**
+<a href="https://doi.org/10.33774/apsa-2025-lwnpc" target="_blank"><i class="fa fa-fw fa-link" aria-hidden="true"></i></a>
+
+<style>
+  .toggle-button {
+    background-color: transparent;
+    color: #000;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+  }
+
+  .triangle {
+    width: 0;
+    height: 0;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-left: 8px solid #000;
+    display: inline-block;
+    margin-right: 5px;
+    transform: rotate(0deg);
+    transition: transform 0.3s;
+  }
+
+  .toggle-button.active .triangle {
+    transform: rotate(90deg);
+  }
+
+  .abstract-container {
+    margin-bottom: 20px;
+  }
+</style>
+<div class="abstract-container">
+  <div class="toggle-button" data-target="abstract-2">
+    <span class="triangle"></span>
+    <span>Abstract</span>
+  </div>
+  <div id="abstract-2" style="display: none;">
+After the resolution of a civil conflict, how does the return of the internally displaced population (IDPs) impact social cohesion? Little attention has been paid to the consequences of IDP return, despite extensive research on the causes and effects of displacement. I investigate this question in Iraq after the defeat of the Islamic State. Coercive and unexpected camp closures by the Iraqi federal government starting in July 2019 forced hundreds of thousands of internal migrants to return. The exogenous timing of the closure campaign provides a unique setting to estimate a plausibly causal effect of return. Leveraging village-level displacement data, community assessments, respondent-level surveys, and qualitative fieldwork, I find that the closure-induced returns frayed social cohesion. My theory provides a critical mechanism underpinning this relationship: return creates communal tensions by inducing feelings of fear and suspicion. These findings hold significant policy implications, as the approach of post-conflict governments to address internal migration profoundly influences the social legacy of civil conflicts.
+  </div>
+</div>
+
 
 ## works in progress 
 
-**IDP Return and Social Cohesion: Evidence from Camp Closures in Iraq**
 
 **The Determinants of Displacement: A Micro-Founded Global Analysis** (with Andrew Shaver, Teagan Zuniga) 
 
