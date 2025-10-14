@@ -95,8 +95,11 @@ After the resolution of a civil conflict, how does the return of the internally 
 
 ## works in progress 
 
+**Authoritarian Nostalgia Unpacked: The Reflective and Restorative Divide in Iraqi Kurdistan** (with Stephanie Wright) 
 
-**The Determinants of Displacement: A Micro-Founded Global Analysis** (with Andrew Shaver, Teagan Zuniga) 
+**The Moral Economy of of Authoritarian Nostalgia: How Institutional Betrayal Erodes Collective Memory**
+
+**Institutionalizing Memory: A Natural Experiment in Transitional Justice Education**
 
 
 <script>
