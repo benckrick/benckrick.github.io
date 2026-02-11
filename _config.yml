@@ -231,7 +231,7 @@ include:
   - _pages/cv.md 
   - _pages/publications.md 
   - _pages/projects.md 
-  - _teaching/cv.md 
+  - _pages/cv.md 
 exclude:
   - bin/
   - CONTRIBUTING.md
