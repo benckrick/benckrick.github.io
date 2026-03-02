@@ -39,7 +39,7 @@ In graduate school, I have developed as both a researcher and a teacher—two pr
 }
 </style>
 
-## Discussion Section Instructor
+## discussion section instructor
 
 **Introduction to International Relations**  
 *Fall 2024*  
@@ -69,7 +69,7 @@ This course helps students become informed observers—and potentially participa
   </div>
 </div>
 
-## Teaching Assistant
+## teaching assistant
 
 **Introduction to Political Attitudes, Groups, and Behavior**  
 *Fall 2025*  
