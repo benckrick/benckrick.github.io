@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-In graduate school, I have developed as both a researcher and a teacher—two professional capacities that mutually reinforce one another. At Duke, I have served as a teaching assistant and completed Duke’s [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching/), which included over 40 hours of structured pedagogy training as well as peer feedback and supervision. I am guided by the belief that education should spark intellectual curiosity and equip students with the skills to thrive both inside and beyond the classroom.
+In graduate school, I have developed as both a researcher and a teacher—two professional capacities that mutually reinforce one another. At Duke, I have served as a teaching assistant and completed Duke’s [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching/), which included over 40 hours of structured pedagogy training as well as peer feedback and supervision. I am guided by the belief that education should spark intellectual curiosity and equip students with the skills to thrive both inside and beyond the classroom. You can find my full teaching statement <a href="/files/Teaching_Statement.pdf" target="_blank">here</a>.
 
 <style>
 .toggle-button {
