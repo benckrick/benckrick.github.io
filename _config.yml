@@ -230,9 +230,9 @@ include:
   - _pages/about.md
   - _pages/publications.md 
   - _pages/projects.md 
-exclude:
   - _pages/teaching.md 
   - _pages/cv.md 
+exclude:
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
