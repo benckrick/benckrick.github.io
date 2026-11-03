@@ -231,8 +231,8 @@ include:
   - _pages/publications.md 
   - _pages/projects.md 
   - _pages/cv.md 
-exclude:
   - _pages/teaching.md 
+exclude:
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
