@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: cv
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 <iframe src="/files/Benjamin_Krick_CV.pdf" width="100%" height="800px">
